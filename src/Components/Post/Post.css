@@ -1,0 +1,9 @@
+.post-container{
+    margin-bottom:40px;
+    color:green;
+}
+.MuiCard-root {
+    width: 800px;
+    padding: 20px 10px;
+    margin: auto !important;
+}
